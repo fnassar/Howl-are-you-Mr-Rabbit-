@@ -31,7 +31,7 @@ Our final website consisted of two parts:
 
 ## Personal documentation: 
 
-[_Fatema's_](https://github.com/andresugartechea/Project2/blob/main/images/fatema/README.md)
+[_Fatema's_](https://github.com/fnassar/Howl-are-you-Mr-Rabbit-/blob/main/images/fatema/README.md)
 
-[_Andres'_](https://github.com/andresugartechea/Project2/blob/main/images/Andres/README.md)
+[_Andres'_](https://github.com/fnassar/Howl-are-you-Mr-Rabbit-/blob/main/images/Andres/README.md)
 
